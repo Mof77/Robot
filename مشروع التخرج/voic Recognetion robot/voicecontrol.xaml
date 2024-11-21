@@ -1,0 +1,23 @@
+﻿<Window x:Class="voic_Recognetion_robot.voicecontrol"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:voic_Recognetion_robot"
+        mc:Ignorable="d"
+        Title="voicecontrol" Height="329.795" Width="619.078" Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="images/Robot-Workforce.jpg"/>
+    </Window.Background>
+    <Grid Margin="10,23,-0.2,0" >
+
+        <Button x:Name="stop_voice_recogBtn" Content="stop recognation" HorizontalAlignment="Left" Margin="141,106,0,0" VerticalAlignment="Top" Width="117" IsEnabled="False" Click="stop_voice_recogBtn_Click" Height="44" FontFamily="Tw Cen MT Condensed Extra Bold" Background="#FF2B87B0" Foreground="White"/>
+        <Button x:Name="start_voice_recogBtn" Content="start recognation" HorizontalAlignment="Left" Margin="10,106,0,0" VerticalAlignment="Top" Width="101" Click="start_voice_recogBtn_Click" Height="44" FontFamily="Tw Cen MT Condensed Extra Bold" Foreground="White" Background="#FF2B87B0"/>
+        <TextBox x:Name="commands_txt" HorizontalAlignment="Left" Height="60" Margin="97,0,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="186"/>
+
+        <Label x:Name="label1" Content="cmmands list:" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top"/>
+        <Button Content="Free Drive" x:Name="btnFreeDrive" HorizontalAlignment="Left" VerticalAlignment="Top" Width="101" Margin="10,190,0,0" Click="btnFreeDrive_Click" IsEnabled="False" Height="43" FontFamily="Tw Cen MT Condensed Extra Bold" Background="#FF2B87B0" Foreground="White"/>
+        <Button Content=" stop Free Drive" x:Name="stopbtnFreeDrive" HorizontalAlignment="Left" VerticalAlignment="Top" Width="117" Margin="141,190,0,0" Click="stopbtnFreeDrive_Click" IsEnabled="False" Height="43" FontFamily="Tw Cen MT Condensed Extra Bold" Background="#FF2B87B0" Foreground="White" />
+
+    </Grid>
+</Window>

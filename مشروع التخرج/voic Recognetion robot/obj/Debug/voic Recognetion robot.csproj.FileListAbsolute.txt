@@ -1,0 +1,146 @@
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot.csprojResolveAssemblyReference.cache
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\App.g.cs
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\MainWindow.baml
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.Cache
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+c:\users\mhd\documents\visual studio 2015\Projects\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\MHD\Desktop\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\MHD\Desktop\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot.csprojResolveAssemblyReference.cache
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\App.g.cs
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\MainWindow.baml
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+C:\Users\MHD\Desktop\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.Cache
+C:\Users\MHD\Desktop\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+C:\Users\MHD\Desktop\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.csprojResolveAssemblyReference.cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\App.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\MainWindow.baml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.Cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.CoreCompileInputs.cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\manualcontrol.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voicecontrol.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\manualcontrol.baml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\voic Recognetion robot\obj\Debug\voicecontrol.baml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot.csprojResolveAssemblyReference.cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\manualcontrol.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voicecontrol.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\App.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\MainWindow.baml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\manualcontrol.baml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voicecontrol.baml
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.Cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.CoreCompileInputs.cache
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\bandar.g.cs
+C:\Users\MHD\Desktop\projects\voic Recognetion robot\2\v2\voic Recognetion robot\obj\Debug\bandar.baml
+D:\جامعة تبوك\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+D:\جامعة تبوك\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+D:\جامعة تبوك\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+D:\جامعة تبوك\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.pdb
+D:\جامعة تبوك\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.xml
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot.csprojResolveAssemblyReference.cache
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\manualcontrol.g.cs
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voicecontrol.g.cs
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\App.g.cs
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\MainWindow.baml
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\manualcontrol.baml
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voicecontrol.baml
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+D:\جامعة تبوك\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.Cache
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.pdb
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.xml
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csprojResolveAssemblyReference.cache
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\manualcontrol.g.cs
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voicecontrol.g.cs
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\App.g.cs
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\MainWindow.baml
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\manualcontrol.baml
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voicecontrol.baml
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+D:\جامعة تبوك\1438-1439\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.Cache
+G:\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+G:\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+G:\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe.config
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.exe
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\bin\Debug\voic Recognetion robot.pdb
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\MainWindow.g.cs
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\manualcontrol.g.cs
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voicecontrol.g.cs
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\App.g.cs
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.cache
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot_MarkupCompile.lref
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\MainWindow.baml
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\manualcontrol.baml
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voicecontrol.baml
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.g.resources
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic_Recognetion_robot.Properties.Resources.resources
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.GenerateResource.cache
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.CoreCompileInputs.cache
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.CopyComplete
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.exe
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.pdb
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.AssemblyReference.cache
+C:\Users\7Moody\Downloads\مشروع التخرج\voic Recognetion robot\obj\Debug\voic Recognetion robot.csproj.SuggestedBindingRedirects.cache

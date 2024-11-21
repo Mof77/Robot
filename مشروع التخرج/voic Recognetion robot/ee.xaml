@@ -1,0 +1,20 @@
+﻿<Window x:Class="voic_Recognetion_robot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:voic_Recognetion_robot"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="stop_voice_recogBtn" Content="stop recognation" HorizontalAlignment="Left" Margin="288,244,0,0" VerticalAlignment="Top" Width="193" IsEnabled="False" Click="stop_voice_recogBtn_Click"/>
+        <Button x:Name="start_voice_recogBtn" Content="start recognation" HorizontalAlignment="Left" Margin="38,244,0,0" VerticalAlignment="Top" Width="195" Click="start_voice_recogBtn_Click"/>
+        <TextBox x:Name="commands_txt" HorizontalAlignment="Left" Height="60" Margin="164,114,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="infrared_txt" HorizontalAlignment="Left" Height="23" Margin="146,46,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        
+        
+        <Label x:Name="label" Content="infrared value:" HorizontalAlignment="Left" Margin="47,43,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="cmmands list:" HorizontalAlignment="Left" Margin="354,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

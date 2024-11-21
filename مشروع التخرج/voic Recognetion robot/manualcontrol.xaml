@@ -1,0 +1,30 @@
+﻿<Window x:Class="voic_Recognetion_robot.manualcontrol"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:voic_Recognetion_robot"
+        mc:Ignorable="d"
+        Title="manualcontrol" Height="384.783" Width="661.956">
+    <Window.Background>
+        <ImageBrush ImageSource="images/1.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.OpacityMask>
+            <ImageBrush ImageSource="images/1.jpg"/>
+        </Grid.OpacityMask>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+
+        <Button x:Name="forward_btn" Content="forward" HorizontalAlignment="Left" Margin="88,106,0,0" VerticalAlignment="Top" Width="70" Click="forward_btn_Click_1"/>
+        <Button x:Name="backward_btn" Content="backward" HorizontalAlignment="Left" Margin="88,182,0,0" VerticalAlignment="Top" Width="75" Click="backward_btn_Click_1"/>
+        <Button x:Name="left_btn" Content="left" HorizontalAlignment="Left" Margin="2,145,0,0" VerticalAlignment="Top" Width="75" Click="left_btn_Click_1"/>
+        <Button x:Name="right_btn" Content="right" HorizontalAlignment="Left" Margin="165,145,0,0" VerticalAlignment="Top" Width="75" Click="right_btn_Click_1"/>
+
+    </Grid>
+</Window>
